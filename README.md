@@ -1,0 +1,2 @@
+# kalimat.gi
+كلمات.go
